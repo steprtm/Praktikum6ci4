@@ -4,6 +4,8 @@ Stephen Pratama Kurnia
 
 TI.22.A5 312210635
 
+## github ci4 utama : https://github.com/steprtm/lab7_php_ci
+
 ### AjaxController.php
 ![Code_9y5k8JsYz0](https://github.com/steprtm/Praktikum6ci4/assets/129705802/86a56e63-9912-4537-b9ef-9904f7fec969)
 
